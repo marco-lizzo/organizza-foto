@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; max-width:900px; margin:30px auto; line-height:1.5; padding: 0 16px; color:#222;}
+header h1 { margin:0; font-size:2rem;}
+#download-btn { display:inline-block; padding:10px 16px; background:#007bff; color:#fff; text-decoration:none; border-radius:6px; margin-top:8px;}
+section { margin-top:22px; }
+footer { margin-top:32px; font-size:0.9rem; color:#555; }
